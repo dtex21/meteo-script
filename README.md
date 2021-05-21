@@ -7,7 +7,7 @@ In particular the values which are calculated are mean, maximum and minimum temp
 - Enter the command 
 >python meteo_script.py -i "input files" -o "output file" -s "starting line" -e "ending line"
 
-###Flags
+##Flags
 - -i : input files (default is 10)
 - -o : output file
 - -s : the data will be calculated after this line
